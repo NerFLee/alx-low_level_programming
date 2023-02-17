@@ -1,10 +1,8 @@
 #include <stdio.h>
+
 /**
- * main - print a C program using printf
- * @void: must be put in brackets
- *
- * return - program should return a value of 0
- *
+ *main - Entry point
+ *return - program should return always a value of 0 (Success)
 */
 int main(void)
 {
