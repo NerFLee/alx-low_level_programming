@@ -1,1 +1,1 @@
- Pointers arrays and strings
+complete work on pointers and string arrays
