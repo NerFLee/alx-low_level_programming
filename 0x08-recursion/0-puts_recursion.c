@@ -2,7 +2,6 @@
 
 /**
  * _puts_recursion - prints a string, followed by a new line
- * * Auth0r: Severin
  * @s: string to print
  */
 void _puts_recursion(char *s)
