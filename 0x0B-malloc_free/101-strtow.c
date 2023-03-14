@@ -19,7 +19,7 @@ int count_words(char *str)
 			count++;
 		i++;
 	}
-	return (count);
+return (count);
 }
 
 /**
