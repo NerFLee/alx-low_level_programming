@@ -71,7 +71,7 @@ char *big_multiply(char *s1, char *s2)
 		if (c)
 			r[l1 + l2 + 1] += c;
 	}
-	return (r);
+		return (r);
 }
 
 /**
