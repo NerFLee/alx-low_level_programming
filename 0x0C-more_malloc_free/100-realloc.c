@@ -27,7 +27,7 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 	res = malloc(new_size);
 	_memcpy(res, ptr, old_size);
 	free(ptr);
-	return (res);
+		return (res);
 }
 
 /**
